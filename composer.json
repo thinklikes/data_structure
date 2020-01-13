@@ -1,0 +1,11 @@
+{
+    "name": "alfie.kuo/data_structure",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alfie.kuo",
+            "email": "thinklikes@gmail.com"
+        }
+    ],
+    "require": {}
+}
